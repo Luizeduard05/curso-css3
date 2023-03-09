@@ -1,0 +1,16 @@
+*{margin:0 ;padding: 0;}
+h1{
+ color : red;
+ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+
+
+p{font-family: 'Times New Roman', Times, serif;
+    color: aquamarine;
+    font-size: 12px;
+    }
+
+    input{
+        width: 200px;
+        background-color: aqua;
+    }
