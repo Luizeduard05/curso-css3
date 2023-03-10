@@ -3,6 +3,10 @@
     color: blue;
 }
 
-.texto-secundario{
-    color: aqua;
+#texto01{
+        background-color: aquamarine;
+}
+
+#texto02{
+        background-color: blueviolet;
 }
