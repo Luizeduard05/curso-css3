@@ -1,0 +1,23 @@
+*{margin: 0; padding: 0; box-sizing: border-box}
+#Conteúdo p{
+    opacity: 0.2;
+}
+
+#Conteúdo{
+    background-color: red;
+    width: 300px;
+    height: 50px;
+    padding: 20px;
+    overflow: hidden;
+    /*box-shadow: 10px 10px 5px green;*/
+}
+
+
+#Conteúdo02{
+    background-color: blue;
+    width: 300px;
+    padding: 20px;
+    overflow: scroll;
+    /*box-shadow: 10px 10px 10px gold;*/
+}
+
